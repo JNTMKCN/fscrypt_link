@@ -1,2 +1,2 @@
 # fscrypt_link
-Mount AES encrypt container from sgfscrypt
+A simple attempt to mount an encrypted volume by bypassing the FDD driver
