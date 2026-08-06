@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fscrypt_link.vcxproj" Id="b5e9f1db-df5b-4148-90e0-6e7287a3ce8c" />
+</Solution>
